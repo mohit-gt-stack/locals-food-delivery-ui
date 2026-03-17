@@ -1,4 +1,4 @@
-# capstone1_local
+# locals-food-delivery-ui
 # Food Ordering Website
 
 This is a responsive food ordering website built using HTML, CSS, and JavaScript.
